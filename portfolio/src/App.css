@@ -1,0 +1,14 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  scroll-padding-top: 10vh;
+}
+
+html {
+  padding-top: min(60px);
+}
+
+.rounded-circle {
+  border: 5px solid #3498db;
+}
+
