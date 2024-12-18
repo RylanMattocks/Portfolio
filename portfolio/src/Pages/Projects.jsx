@@ -89,13 +89,13 @@ const Projects = () => {
                         )}
                     </div>
                     <div className="col-12 col-md-4 my-1">
-                        <img src="Images/GreaterGrades/classmenu.png" alt="Grading Application" className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid" />
+                        <img src="Images/GreaterGrades/classmenu.PNG" alt="Grading Application" className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid" />
                     </div>
                     <div className="col-12 col-md-4 my-1">
-                        <img src="Images/GreaterGrades/dashboard.png" alt="Grading Application" className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid" />
+                        <img src="Images/GreaterGrades/dashboard.PNG" alt="Grading Application" className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid" />
                     </div>
                     <div className="col-12 col-md-4 my-1">
-                        <img src="Images/GreaterGrades/studentmenu.png" alt="Grading Application" className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid" />
+                        <img src="Images/GreaterGrades/studentmenu.PNG" alt="Grading Application" className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid" />
                     </div>
                     <div className="d-flex flex-column align-items-center justify-content-center mt-md-3 text-center">
                         <p>
@@ -149,13 +149,13 @@ const Projects = () => {
                     
                     </div>
                     <div className="col-12 col-md-4 my-1">
-                        <img src="Images/DropTables/followpage.png" alt="Social Media Follows Page" className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid" />
+                        <img src="Images/DropTables/followpage.PNG" alt="Social Media Follows Page" className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid" />
                     </div>
                     <div className="col-12 col-md-4 my-1">
-                        <img src="Images/DropTables/homepage.png" alt="Social Media Home Page" className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid" />
+                        <img src="Images/DropTables/homepage.PNG" alt="Social Media Home Page" className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid" />
                     </div>
                     <div className="col-12 col-md-4 my-1">
-                        <img src="Images/DropTables/profilepage.png" alt="Social Media Profile Page" className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid" />
+                        <img src="Images/DropTables/profilepage.PNG" alt="Social Media Profile Page" className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid" />
                     </div>
                     <div className="d-flex flex-column align-items-center justify-content-center mt-md-3 text-center">
                         <p>
@@ -213,13 +213,13 @@ const Projects = () => {
                         )}
                     </div>
                     <div className="col-12 col-md-4 my-1">
-                        <img src="Images/SilentCity/mainmenu.png" alt="Adventure Game" className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid" />
+                        <img src="Images/SilentCity/mainmenu.PNG" alt="Adventure Game" className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid" />
                     </div>
                     <div className="col-12 col-md-4 my-1">
-                        <img src="Images/SilentCity/game.png" alt="Adventure Game" className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid" />
+                        <img src="Images/SilentCity/game.PNG" alt="Adventure Game" className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid" />
                     </div>
                     <div className="col-12 col-md-4 my-1">
-                        <img src="Images/SilentCity/escapemenu.png" alt="Adventure Game" className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid" />
+                        <img src="Images/SilentCity/escapemenu.PNG" alt="Adventure Game" className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid" />
                     </div>
                     <div className="d-flex flex-column align-items-center justify-content-center mt-md-3 text-center">
                         <p>
@@ -271,13 +271,13 @@ const Projects = () => {
                         )}
                     </div>
                     <div className="col-12 col-md-4 my-1">
-                        <img src="Images/Weather/login.png" alt="Login Page" className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid" />
+                        <img src="Images/Weather/login.PNG" alt="Login Page" className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid" />
                     </div>
                     <div className="col-12 col-md-4 my-1">
-                        <img src="Images/Weather/prediction.png" alt="Prediction Page" className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid" />
+                        <img src="Images/Weather/prediction.PNG" alt="Prediction Page" className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid" />
                     </div>
                     <div className="col-12 col-md-4 my-1">
-                        <img src="Images/Weather/monthly.png" alt="Monthly Page" className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid" />
+                        <img src="Images/Weather/monthly.PNG" alt="Monthly Page" className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid" />
                     </div>
                     <div className="d-flex flex-column align-items-center justify-content-center mt-md-3 text-center">
                         <p>
@@ -336,7 +336,7 @@ const Projects = () => {
                         <img src="Images/SchoolAPI/RosterERD.png" style={{ height: "100%", backgroundColor: "var(--bs-secondary-color)"}} alt="Roster ERD" className="img-fluid object-fit-contain py-1" />
                     </div>
                     <div className="col-12 col-md-4 my-1 mx-auto">
-                        <img src="Images/SchoolAPI/RosterDocumentation.png" alt="Roster Documentation" className="img-fluid object-fit-contain" />
+                        <img src="Images/SchoolAPI/RosterDocumentation.PNG" alt="Roster Documentation" className="img-fluid object-fit-contain" />
                     </div>
                     
                     <div className="d-flex flex-column align-items-center justify-content-center mt-md-3 text-center">

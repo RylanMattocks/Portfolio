@@ -13,7 +13,7 @@ const Featurette = () => {
                 </div>
                 <div className="col-12 col-lg-7 order-1 order-lg-2 d-flex align-items-center justify-content-center my-3">
                     <img 
-                        src="Images/GreaterGrades/dashboard.png" 
+                        src="Images/GreaterGrades/dashboard.PNG" 
                         alt="Grading Home Page" 
                         className="img-fluid mx-auto object-fit-contain" 
                         aria-label="Placeholder: 500x500" 
@@ -29,7 +29,7 @@ const Featurette = () => {
                 </div>
                 <div className="col-12 col-lg-7 order-md-1 d-flex align-items-center justify-content-center my-3">
                     <img 
-                        src="Images/DropTables/homepage.png" 
+                        src="Images/DropTables/homepage.PNG" 
                         alt="Social Medai Homepage" 
                         className="img-fluid mx-auto object-fit-contain" 
                         aria-label="Placeholder: 500x500" 
@@ -45,7 +45,7 @@ const Featurette = () => {
                 </div>
                 <div className="col-12 col-lg-7 order-1 order-lg-2 d-flex align-items-center justify-content-center my-3">
                     <img 
-                        src="Images/SilentCity/mainmenu.png" 
+                        src="Images/SilentCity/mainmenu.PNG" 
                         alt="Game Menu" 
                         className="img-fluid mx-auto object-fit-contain" 
                         aria-label="Placeholder: 500x500" 
