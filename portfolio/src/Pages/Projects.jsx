@@ -15,6 +15,12 @@ const Projects = () => {
     });
 
     const toggleDetailView = (projectName) => {
+        if (projectVisibility[projectName] === true) {
+            const section = document.getElementById(projectName);
+            if (section) {
+                section.scrollIntoView({ behavior: 'smooth' });
+            }
+        }
         setProjectVisibility((prevState) => ({
             ...prevState,
             [projectName]: !prevState[projectName]
