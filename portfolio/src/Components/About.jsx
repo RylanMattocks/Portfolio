@@ -19,10 +19,15 @@ const About = () => {
                 <div className="col-12 col-lg-9">
                     <h2>Rylan Mattocks</h2>
                     <p className="lead">
-                        I graduated with a Bachelor's degree in Computer Science from Western Governors University, where I built a solid foundation in software development, IT principles, programming, data management, and information security. I have four years of professional experience as an Office Supervisor at TCS Communications, where I developed strong communication and collaboration skills while training a team and supporting various departments.
+                        I graduated with a Bachelor's degree in Computer Science from Western Governors University, building a strong foundation in software development, 
+                        IT principles, programming, data management, and information security. I later expanded my technical skills as a Software Developer at Revature, 
+                        gaining hands-on experience with C#, ASP.NET Core, Entity Framework Core, and SQL Server. I also bring four years of professional experience as an 
+                        Office Supervisor at TCS Communications, where I developed strong communication, leadership, and teamwork skills while supporting multiple departments. 
                     </p>
                     <p>
-                        Currently, I am enhancing my technical expertise at Revature, focusing on the .NET tech stack. I'm excited about exploring opportunities in technology roles that challenge me and foster continuous learning. Outside of work, I enjoy golfing, playing video games, and engaging in self-improvement activities, including learning Japanese, exercising, and playing the drums.
+                        I am continuing my professional journey at Infosys as an Associate Software Developer, where I work with CMMC Level 2 compliance and the 
+                        .NET framework. I'm excited about exploring other opportunities in technology roles that challenge me and foster continuous learning. Outside of work, 
+                        I enjoy golfing, playing video games, and engaging in self-improvement activities, such as learning Japanese, exercising, and playing the drums.
                     </p>
                     <a className="btn btn-secondary" href="Mattocks_Resume.pdf" download="Mattocks_Resume.pdf">Download Resume</a>
                 </div>
